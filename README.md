@@ -1,4 +1,4 @@
-# Hi! Welcome to my github profile 👋
+# Hi! Welcome to my GitHub profile 👋
 ### Highschool student from Nowy Sącz 🎓
 ### Beginner developer 👨‍💻
 
@@ -7,9 +7,6 @@
 # 📊 Github Stats
 ![](https://github-readme-streak-stats.herokuapp.com/?user=pawelfloryan&theme=dracula&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=pawelfloryan&theme=dracula&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
-
-### Cybersecurity
-![tryhackme stats](https://raw.githubusercontent.com/pawelfloryan/pawelfloryan/master/assets/thm_propic.png)
 
 ---
 [![](https://visitcount.itsvg.in/api?id=pawelfloryan&icon=8&color=12)](https://visitcount.itsvg.in)
