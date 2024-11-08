@@ -1,5 +1,5 @@
 # Hi! Welcome to my GitHub profile 👋
-### Security Applications Developer 👨‍💻
+### Junior Security Applications Developer 👨‍💻
 ### Cybersecurity enthusiast 👾
 
 # 💻 Tech Stack:
