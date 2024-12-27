@@ -7,7 +7,7 @@
 
 ---
 
-![](https://tryhackme-badges.s3.amazonaws.com/PawelF..png)</br>
+![](<img src="https://tryhackme-badges.s3.amazonaws.com/PawelF..png"/>)</br>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=pawelfloryan&theme=dracula&hide_border=false&count_private=true)<br/>
 
 ---
